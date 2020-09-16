@@ -1,0 +1,1 @@
+A bookilist app created with Vanilla JavaScript; Add and remove books from the UI and local store.
